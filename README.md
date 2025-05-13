@@ -9,11 +9,11 @@ A small 2D project using Unity to learn about different types of lighting and ho
 
 ![Image](https://github.com/user-attachments/assets/24220a3c-3a38-4ef6-96ab-960824a49e96)
 
-![Image](https://github.com/user-attachments/assets/137ebe3e-a728-4126-a1a2-2dcc85b27060)
+![Image](https://github.com/user-attachments/assets/3ec408b0-dc16-4d8a-827c-24814cfc1a17)
 
 3- Freeform Light (square)
 
-![Image](https://github.com/user-attachments/assets/3ec408b0-dc16-4d8a-827c-24814cfc1a17)
+![Image](https://github.com/user-attachments/assets/137ebe3e-a728-4126-a1a2-2dcc85b27060)
 
 4- Sprite Light
 
